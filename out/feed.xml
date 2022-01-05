@@ -4,11 +4,21 @@
         <description><![CDATA[Just another WordPress site]]></description>
         <link>https://next-wordpress-starter.spacejelly.dev</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 05 Jan 2022 20:55:15 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 05 Jan 2022 21:13:52 GMT</lastBuildDate>
         <atom:link href="https://next-wordpress-starter.spacejelly.dev/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 05 Jan 2022 20:55:15 GMT</pubDate>
+        <pubDate>Wed, 05 Jan 2022 21:13:52 GMT</pubDate>
         <copyright><![CDATA[2022 IMG101]]></copyright>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[second post]]></title>
+            <description><![CDATA[second post Beauty lies in the eyes of the beholder Rumi
+]]></description>
+            <link>https://next-wordpress-starter.spacejelly.dev/posts/first-post</link>
+            <guid isPermaLink="false">https://next-wordpress-starter.spacejelly.dev/posts/first-post</guid>
+            <category><![CDATA[Uncategorized]]></category>
+            <dc:creator><![CDATA[taufi.bd]]></dc:creator>
+            <pubDate>Wed, 05 Jan 2022 21:05:16 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Hello world!]]></title>
             <description><![CDATA[Welcome to WordPress. This is your first post. Edit or delete it, then start writing!
