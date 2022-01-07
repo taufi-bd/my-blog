@@ -27,6 +27,7 @@ export async function getStaticProps({ params = {} } = {}) {
         basePath: '/posts',
       },
     },
+    revalidate: 60,
   };
 }
 
@@ -38,6 +39,6 @@ export async function getStaticPaths() {
   });
   return {
     paths,
-    fallback: false,
+    fallback: 'blocking',
   };
 }
